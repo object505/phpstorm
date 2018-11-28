@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy" parent="Default for XWin">
+  <action id="Macro.Sort Strings By Length">
+    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
+  </action>
+  <action id="one.util.ideaplugin.screenshoter.CopyImageAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+  </action>
+</keymap>

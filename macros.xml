@@ -1,0 +1,7 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Sort Strings By Length">
+      <action id="StringManipulation.Sort" />
+    </macro>
+  </component>
+</application>
