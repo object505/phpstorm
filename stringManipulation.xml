@@ -1,10 +1,5 @@
 <application>
   <component name="StringManipulationState">
-    <option name="donationNagger">
-      <DonationNagger>
-        <option name="actionsExecuted" value="52" />
-      </DonationNagger>
-    </option>
     <option name="sortSettings">
       <SortSettings>
         <option name="sortType" value="LINE_LENGTH_SHORT_LONG" />
